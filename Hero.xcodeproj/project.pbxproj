@@ -802,11 +802,13 @@
 					2D1F7FBE1E49DCB5004D944B = {
 						CreatedOnToolsVersion = 8.2;
 						DevelopmentTeam = 4VSEW78TKT;
+						LastSwiftMigration = 1020;
 						ProvisioningStyle = Automatic;
 					};
 					2D1F7FE11E49DD90004D944B = {
 						CreatedOnToolsVersion = 8.2;
 						DevelopmentTeam = 4VSEW78TKT;
+						LastSwiftMigration = 1020;
 						ProvisioningStyle = Automatic;
 					};
 					A306D3B11E1C7A2E00B6C23A = {
@@ -832,7 +834,7 @@
 			};
 			buildConfigurationList = A33E609C1DE761C90065CBD8 /* Build configuration list for PBXProject "Hero" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
@@ -1214,8 +1216,7 @@
 				PRODUCT_NAME = Hero;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
-				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -1240,8 +1241,7 @@
 				PRODUCT_NAME = Hero;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
-				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -1261,8 +1261,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.lkzhao.HeroTvOSExamples;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 			};
@@ -1280,8 +1279,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.lkzhao.HeroTvOSExamples;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 			};
@@ -1307,7 +1305,7 @@
 				PRODUCT_NAME = Hero;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -1332,7 +1330,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.lkzhao.Hero;
 				PRODUCT_NAME = Hero;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
